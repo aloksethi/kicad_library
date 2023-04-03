@@ -1,5 +1,7 @@
 # kicad_library
-making a library of kicad symbols
-components.pretty/7SegmentLED_lsd080bag-103a.kicad_mod --> footprint of 7 segment display LSD080BAG-103A-01, it is a common anode display
-components.pretty/SW_SPST_lcsc_c174049.kicad_mod --> footprint of switch,LCSC, pno: c174049
+making a library of kicad symbols. No 3D models.
 
+|        **Component**       |            **Description**           |
+|:--------------------------:|:------------------------------------:|
+| 7SegmentLED_lsd080bag-103a | 7 Segment display pno:lsd080bag-103a |
+|    SW_SPST_lcsc_c174049    |    SPST switch, LCSC, pno: c174049   |
